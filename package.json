@@ -1,0 +1,18 @@
+{
+  "name": "pou-vot-ពូវុធ-website",
+  "version": "1.0.0",
+  "description": "Professional website for Pou Vot ពូវុធ",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo \"Build complete\""
+  },
+  "keywords": [
+    "website",
+    "youtube",
+    "ai-generated",
+    "professional"
+  ],
+  "author": "Pou Vot ពូវុធ",
+  "license": "MIT"
+}
