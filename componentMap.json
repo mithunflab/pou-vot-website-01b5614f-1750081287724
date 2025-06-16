@@ -1,0 +1,22 @@
+{
+  "components": [
+    "header",
+    "hero",
+    "videos",
+    "about",
+    "contact",
+    "footer"
+  ],
+  "styles": [
+    "layout",
+    "colors",
+    "typography",
+    "animations"
+  ],
+  "scripts": [
+    "youtube-api",
+    "interactions",
+    "analytics"
+  ],
+  "lastUpdated": "2025-06-16T13:41:25.026Z"
+}
